@@ -24,7 +24,6 @@
   position: fixed;
   top: 0;
   width: 100%;
-  opacity: 0.9;
   visibility: hidden; }
   .menu.show {
     visibility: visible; }
@@ -121,7 +120,7 @@ h1, h2, h3 {
     background: rgba(252, 253, 255, 0.5); }
 
 a {
-  color: #fff;
+  color: #000;
   text-decoration: none; }
 
 header {
