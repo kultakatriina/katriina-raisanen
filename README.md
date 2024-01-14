@@ -1,6 +1,7 @@
 LUT University Front-End Course Project: Katriina Räisänen, CV
 
 Project Description
+
 This project, created as part of the Front-End Development course at LUT University, 
 showcases a personal website featuring my curriculum vitae (CV). It's designed to effectively 
 highlight my educational background, work experience, skills, and projects undertaken throughout my career. 
@@ -14,6 +15,7 @@ Future enhancements are planned to keep the website up-to-date with new ideas an
 
 
 How to Install and Run the Project
+
 To get this project up and running on your local machine, follow these steps:
 
 Clone the Repository: Use the command 'git clone [repository URL]'.
@@ -22,6 +24,7 @@ Run the Project: After installation, execute 'npm start' to launch the website o
 
 
 How to Use the Project
+
 The website is user-friendly and intuitive.
 Navigation: Use the menu to navigate between sections of the CV.
 Links: You can find out about my projects on My Work -page and follow the links to see the original materials. 
@@ -29,6 +32,7 @@ Contact Information: Can be found at its own page
 
 
 Credits
+
 This project was a solo endeavor, but I'd like to acknowledge the guidance and resources provided by:
 
 Brad Traversy, Traversy Media
@@ -37,6 +41,7 @@ Online tutorials and forums
 
 
 License
+
 Copyright (c) 2024 Katriina Räisänen
  
  Permission is hereby granted, free of charge, to any person obtaining
