@@ -1,14 +1,17 @@
 {
   "name": "modern_portfolio",
   "version": "1.0.0",
-  "description": "responsive portfolio website",
+  "description": "Responsive portfolio website",
   "main": "index.js",
+  "homepage": "https://kultakatriina.github.io/katriina-raisanen",
   "scripts": {
-    "sass": "node-sass -w scss/ -o dist/css/  --recursive"
+    "sass": "node-sass -w scss/ -o dist/css/  --recursive",
+    "deploy": "gh-pages -d dist"
   },
   "author": "Katriina Räisänen",
   "license": "MIT",
   "dependencies": {
+    "gh-pages": "^6.1.1",
     "node-sass": "^9.0.0"
   }
 }
