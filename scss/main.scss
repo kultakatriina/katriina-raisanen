@@ -98,20 +98,29 @@ main {
     
     .job-1 {
         grid-area: job1;
+        background: lighten($primary-color, 5);
+        padding: 0.5rem;
+        border-bottom: 5px solid $secondary-color;
     }
     
     .job-2 {
         grid-area: job2;
+        background: lighten($primary-color, 5);
+        padding: 0.5rem;
+        border-bottom: 5px solid $secondary-color;
     }
     
     .job-3 {
         grid-area: job3;
+        background: lighten($primary-color, 5);
+        padding: 0.5rem;
+        border-bottom: 5px solid $secondary-color;
     }
     
     .job {
         background: lighten($primary-color, 5);
         padding: 0.5rem;
-        border-bottom: 5px solid $secondary-color   ;
+        border-bottom: 5px solid $secondary-color;
     }
 }
 
